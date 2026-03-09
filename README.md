@@ -36,10 +36,10 @@
 
 #### You can also find me on: 
 
-[<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook.png" />][facebook]
-[<img align="left" alt="entbappy | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
+[<img align="left" alt="13-suraj | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="13-suraj | Facebook" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook.png" />][facebook]
+[<img align="left" alt="13-suraj | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="13-suraj | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
                                                                                                                                                                        
 
 <br>
@@ -47,21 +47,21 @@
 <hr>
 
 [linkedin]: https://www.linkedin.com/in/suraj-keshari/
-[facebook]: https://twitter.com/13.suraj.keshari
+[facebook]: https://www.facebook.com/13.suraj.keshari
 [Instagram]: https://www.instagram.com/13_suraj____/
 [LeetCode]: https://leetcode.com/13_suraj____/
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=entbappy&label=Profile%20views&color=0e75b6&style=flat" alt="entbappy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=13-suraj&label=Profile%20views&color=0e75b6&style=flat" alt="13-suraj" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=entbappy" alt="entbappy" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=13-suraj" alt="13-suraj" /></a> </p> -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=entbappy&show_icons=true&locale=en&layout=compact" alt="entbappy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=13-suraj&show_icons=true&locale=en&layout=compact" alt="13-suraj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=entbappy&show_icons=true&locale=en" alt="entbappy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=13-suraj&show_icons=true&locale=en" alt="13-suraj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=entbappy&" alt="entbappy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=13-suraj&" alt="13-suraj" /></p>
 
 
 
